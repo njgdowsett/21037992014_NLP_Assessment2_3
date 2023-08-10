@@ -1,0 +1,5 @@
+File was too big to upload to github repository.
+
+Data can be accessed at: https://www.kaggle.com/datasets/jordankrishnayah/45m-headlines-from-2007-2022-10-largest-sites?resource=download
+
+I used the "headlines.csv" file.
